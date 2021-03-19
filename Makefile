@@ -3,8 +3,8 @@ test:
 
 # flags required by black (https://bit.ly/2Qovtjm)
 lint:
-	python -m flake8 --max-line-length 88 --extend-ignore=E203,W503 .
+	python -m flake8 --max-line-length=88 --extend-ignore=E203,W503 .
 
 format:
-	python -m isort .
-	python -m black .
+	poetry run isort .
+	poetry run black .
