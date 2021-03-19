@@ -1,5 +1,5 @@
 test:
-	poetry run python -m pytest --hypothesis-show-statistics
+	poetry run python -m pytest --cov=. --hypothesis-show-statistics
 
 lint:
 	python -m flake8 .
