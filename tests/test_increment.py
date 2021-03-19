@@ -1,7 +1,8 @@
 import pytest
-from src.py_demo.increment import increment, increment_by_step
-from hypothesis import given, strategies as st
+from hypothesis import given
+from hypothesis import strategies as st
 
+from src.py_demo.increment import increment, increment_by_step
 
 
 def test_should_increment_by_1():
