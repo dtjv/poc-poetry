@@ -6,6 +6,9 @@ __pycache__/
 # pyenv environment
 .python-version
 
+# vim
+/.vim
+
 # test
 cover
 .coverage
