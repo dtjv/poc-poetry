@@ -11,6 +11,13 @@ python = "^3.9"
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.2"
 hypothesis = "^6.8.1"
+flake8 = "^3.9.0"
+pep8-naming = "^0.11.1"
+isort = "^5.7.0"
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
