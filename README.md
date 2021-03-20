@@ -14,6 +14,7 @@ A proof-of-concept python project setup.
 - [x] bandit
 - [x] safety
 - [x] isort
+- [x] pre-commit
 
 ## Author
 
