@@ -4,20 +4,24 @@ A proof-of-concept python project setup.
 
 ## Tech Stack
 
-- [ ] pyenv
-- [ ] pyenv-virtualenv
-- [ ] coc-pyright
-- [ ] poetry
-- [ ] pytest
-- [ ] pytest-cov
-- [ ] hypothesis
-- [ ] black
-- [ ] flake8
-- [ ] mypy
+- [x] poetry
+- [x] pytest
+- [x] pytest-cov
+- [x] hypothesis
+- [x] black
+- [x] flake8
+- [x] mypy
+- [x] bandit
+- [x] safety
+- [x] isort
 
 ## Author
 
 - [David Valles](https://dtjv.io)
+
+## References
+
+- [The Complete Python Development Guide](https://testdriven.io/guides/complete-python/).
 
 ## License
 
