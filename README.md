@@ -1,6 +1,6 @@
-# py-demo
+# poc-poetry
 
-A proof-of-concept python project setup.
+A proof-of-concept using python and poetry. [wip]
 
 ## Tech Stack
 

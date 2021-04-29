@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "py-demo"
+name = "poc-poetry"
 version = "0.1.0"
-description = "A proof-of-concept python project setup"
+description = "A proof-of-concept using python and poetry"
 authors = ["David Valles <davidtjvalles@gmail.com>"]
 license = "MIT"
 
